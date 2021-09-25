@@ -19,7 +19,7 @@ int ingresarOperando()
 {
     int numeroIngresado;
 
-    printf("Ingrese un numero para operar");
+    printf("Ingrese un numero para operar \n");
     scanf("%d", &numeroIngresado);
 
     return numeroIngresado;
