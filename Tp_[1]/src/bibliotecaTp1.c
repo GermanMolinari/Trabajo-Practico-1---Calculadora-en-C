@@ -63,8 +63,7 @@ int multiplicarEnteros (int a, int b)
 
 
 
-
-float dividirEnteros(int a, int b, float* resultado)
+int dividirEnteros(int a, int b, float* resultado)
 {
     int todoOk=0;
 

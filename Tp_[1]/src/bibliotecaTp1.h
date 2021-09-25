@@ -65,7 +65,7 @@ int multiplicarEnteros (int a, int b);
  * \return | retorna 0 o 1 dependiendo si pudo realizar la operacion
  *
  */
-float dividirEnteros (int a, int b, float* resultado);
+int dividirEnteros (int a, int b, float* resultado);
 
 /** \brief factorea un entero
  *
